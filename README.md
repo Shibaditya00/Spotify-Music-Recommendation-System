@@ -22,19 +22,19 @@ Technologies used:
 
 ## 📂 Project Structure
 
-│
-├── data/
-│   └── spotify\_millsongdata.csv - Raw dataset of songs
-│
-├── src/
-│   ├── cosine\_sim.pkl - Precomputed cosine similarity matrix (excluded from GitHub due to size)
-│   ├── song\_data.pkl - Processed data used in the recommendation system
-│   ├── recommender.py - Core logic for generating recommendations
-│
-├── app.py - Streamlit app script
-├── requirements.txt - Required Python packages
-├── spotify\_recommender.ipynb - EDA and model development
-└── README.md - Project documentation
+* │
+* ├── data/
+* │   └── spotify\_millsongdata.csv - Raw dataset of songs
+* │
+* ├── src/
+* │   ├── cosine\_sim.pkl - Precomputed cosine similarity matrix (excluded from GitHub due to size)
+* │   ├── song\_data.pkl - Processed data used in the recommendation system
+* │   ├── recommender.py - Core logic for generating recommendations
+* │
+* ├── app.py - Streamlit app script
+* ├── requirements.txt - Required Python packages
+* ├── spotify\_recommender.ipynb - EDA and model development
+* └── README.md - Project documentation
 
 ---
 
